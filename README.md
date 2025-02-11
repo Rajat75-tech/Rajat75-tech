@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Rajat Sharma</h1>
-<h3 align="center">A Software Full Stack Developer.</h3>
+<h3 align="center">A Full Stack Developer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/your-gif-url.gif">  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsharma&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsharma" /> </p>
 
