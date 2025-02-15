@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Rajat Sharma</h1>
-<h3 align="center">A Frontend Developer.</h3>
+<h3 align="center">A Full Stack Developer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/your-gif-url.gif">  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsharma&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsharma" /> </p>
 
@@ -45,7 +45,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="40" height="40"/>
   </a>
     </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsharma&show_icons=true&locale=en&layout=compact" alt="rajatsharma" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatsharma&show_icons=true&locale=en" alt="rajatsharma" /></p>
